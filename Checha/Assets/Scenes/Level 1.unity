@@ -445,7 +445,7 @@ GameObject:
   - component: {fileID: 1028230686}
   - component: {fileID: 1028230685}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: "\u0421\u0444\u0435\u0440\u044B\u0447"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
